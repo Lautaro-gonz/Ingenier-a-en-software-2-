@@ -1,4 +1,4 @@
-KodoLabs
+
 
 Proyecto — Sistema de gestión de turnos médicos
 
