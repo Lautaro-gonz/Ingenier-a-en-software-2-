@@ -62,4 +62,4 @@ Funcionalidades principales:
 
 Enlaces
 
- Tablero Kanban: 
+ Tablero Kanban: https://github.com/users/Lautaro-gonz/projects/2
